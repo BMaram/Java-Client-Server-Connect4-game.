@@ -1,5 +1,5 @@
 # Connect4Java
-This project provides an online multi-player game on single server using threads in java by using Socket and ServerSocket classes communicating by CFP (Connect Four protocol) as shown below FIG1 , with graphical interface on client side using Swing and the NetBeans IDE.
+This project provides an online multi-player game on single server using threads in java by using Socket and ServerSocket classes communicating by CFP (Connect Four protocol), with graphical interface on client side using Swing and the NetBeans IDE.
 
 ### What is Connect four ?
 Connect Four is a two-playe connection game in which the players first take
